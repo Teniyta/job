@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre&family=Open+Sans&family=Roboto&display=swap');
+
+.container {
+max-width: 750px;
+margin: auto;
+padding-top: 16px;
+}
+.avatar {
+    width: 100%;
+}
+
+
+@media(max-width: 700px) {
+    info {
+        text-align: center;
+        display: block;
+    }
+}
+
+
+.info-text p {
+
+    text-align: center;
+}
+.info-text h1 {
+ text-align: center;
+}
+
+body {
+    color:#100702;
+font-size: 20px;
+font-weight: normal;
+font-family:'Open Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+a:active {
+    color: rgb(238, 238, 245);
+}
+a:hover {
+    text-decoration: rgb(239, 245, 245);
+} 
+
+.one {
+    background: #fff9dc;
+}
+.two {
+background: #e5ffe7;
+}
+.three {
+    background:#ffe5e5;
+}
+.four {
+    background:#D2C4E1;
+}
+.card {
+    padding: 15px 15px;
+    margin-bottom:20px;
+    border-radius: 30px;
+}
+
+
+.table td {
+    padding-bottom: 10px;
+    padding-right: 30px;
+}
+
+
